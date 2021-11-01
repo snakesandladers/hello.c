@@ -1,2 +1,3 @@
-# hello.c
-print hello.c in the screen 
+#include<iostream.h>
+#include,conio.h>
+printf("hello!");
